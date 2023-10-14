@@ -1,6 +1,5 @@
 # Finance-with-big-data
-This contains some of my finance course projects.
-One of the projects contains:
+This contains one of my finance course projects:
 - Manipulating and visualizing stock market data (S&P 500)
 - Web-scrapping market data
 - Computing CAPM beta and alpha
